@@ -7,7 +7,7 @@ hi there, i am **rakhmad fajar** an information system student. a long life lear
 - 😄 pronouns: he/him
 - ⚡ interest: data, machine learning, product growth, web3 and investing
 ## contact📫
-<a href="https://www.instagram.com/rhfajarr/"><img src= "https://img.shields.io/badge/rhfajarr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <img src="https://img.shields.io/badge/fajar1368-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <a href="https://id.linkedin.com/in/rakhmadfajar"><img src= "https://img.shields.io/badge/RAKHMADFAJAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.instagram.com/rhfajarr/"><img src= "https://img.shields.io/badge/rhfajarr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a href="https://www.discord.com"><img src="https://img.shields.io/badge/fajar1368-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <a href="https://id.linkedin.com/in/rakhmadfajar"><img src= "https://img.shields.io/badge/RAKHMADFAJAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 ## tech stack🕹
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
