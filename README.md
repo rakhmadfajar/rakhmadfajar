@@ -4,8 +4,7 @@ hi there, i am **rakhmad fajar** an information system student. a long life lear
 - :briefcase: i'm currently **seeking for internship opportunities in data science field**
 - 🔭 i’m currently working on some data science portfolio projects
 - 🌱 i’m currently learning more machine learning algorithms
-- 😄 pronouns: he/him
-- ⚡ interest: data, machine learning, product growth, web3 and investing
+- ⚡ interest: data, machine learning, product growth and investing
 ## contact📫
 <a href="https://www.instagram.com/rhfajarr/"><img src= "https://img.shields.io/badge/rhfajarr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a href="https://www.discord.com"><img src="https://img.shields.io/badge/fajar1368-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <a href="https://id.linkedin.com/in/rakhmadfajar"><img src= "https://img.shields.io/badge/RAKHMADFAJAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 ## tech stack🕹
